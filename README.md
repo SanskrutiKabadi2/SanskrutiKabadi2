@@ -24,9 +24,8 @@
 <a href="https://github.com/Sanskrutikabadi2/github-readme-stats"><img alt="Sanskruti Kabadis's Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskrutiKabadi&langs_count=8&count_private=true&layout=compact&theme=white-ice&hide_border=true&bg_color=060A0CD0" /></a>
 </p>
 
-
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=sanskrutikabadi2&show_icons=true&locale=en"<a/>
+    <a href="https://github.com/sanskrutikabadi2/github-readme-streak-stats">
+        <img height="200" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanskruti Kabadis's streak" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SanskrutiKabadi2&theme=black-ice&hide_border=true&stroke=0000&background=#FFFFFF"/>
+    </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskrutikabadi2&" alt="sanskrutikabadi2" /></p>
