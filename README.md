@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanskruti Kabadi</h1>
 <h3 align="center">A Final Year Computer Engineering Student</h3>
-<img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/2883527/screenshots/11895280/media/2bad4fcf7a25d3f6eb80d5fd7c0a3c26.png?resize=1000x750&vertical=center">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2883527/screenshots/11895280/media/2bad4fcf7a25d3f6eb80d5fd7c0a3c26.png?resize=1000x750&vertical=center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskrutikabadi2&label=Profile%20views&color=0e75b6&style=flat" alt="sanskrutikabadi2" /> </p>
 
